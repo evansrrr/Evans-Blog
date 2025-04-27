@@ -2,7 +2,7 @@
     publish = "public"
 
 [build.environment]
-    HUGO_VERSION = "0.124.4"
+    HUGO_VERSION = "0.124.0"
     HUGO_THEME = "hugo-theme-stack"
 
 [context.production]
