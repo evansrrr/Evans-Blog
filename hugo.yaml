@@ -1,6 +1,6 @@
 baseurl: https://evans-blog.netlify.app/
 languageCode: en-us
-theme: hugo-theme-stack
+theme: github.com/CaiJimmy/hugo-theme-stack
 title: Evans Blog
 copyright: Evans
 
