@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prologue.md",
+                "file": "prologue/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prologue"
+              "title": "_index"
             }
           }
         ]
@@ -169,5 +169,8 @@
     }
   },
   "active": "579445a39abdb16e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Prologue.md",
+    "prologue/Prologue.md"
+  ]
 }
