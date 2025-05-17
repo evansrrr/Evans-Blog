@@ -6,15 +6,15 @@
     HUGO_THEME = "hugo-theme-stack"
 
 [context.production]
-    command = "hugo --gc --minify --themesDir ../.. -b ${URL}"
+    command = "hugo --gc --minify --baseURL $URL"
     [context.production.environment]
         HUGO_ENV = "production"
 
 [context.branch-deploy]
-    command = "hugo --gc --minify --themesDir ../.. -b ${DEPLOY_PRIME_URL}"
+    command = "hugo --gc --minify --baseURL $URL"
 
 [context.deploy-preview]
-    command = "hugo --gc --minify --themesDir ../.. -b ${DEPLOY_PRIME_URL}"
+    command = "hugo --gc --minify --baseURL $URL"
 
 [[plugins]]
     package = "netlify-plugin-hugo-cache-resources"
