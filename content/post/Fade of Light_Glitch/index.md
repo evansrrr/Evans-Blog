@@ -1,5 +1,5 @@
 +++
-date = '2025-05-17T11:10:00+08:00'
+date = '2025-06-12T11:10:00+08:00'
 draft = false
 title = 'Fade of Light: Glitch'
 +++
