@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note01/index.md",
+                "file": "理想型笔记本/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -168,11 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2aa09c05e9d87b3",
+  "active": "53d761f3432f968e",
   "lastOpenFiles": [
     "Prologue/index.md",
-    "Fade of Light_Glitch/index.md",
     "note01/index.md",
+    "理想型笔记本/index.md",
+    "理想型笔记本",
+    "Fade of Light_Glitch/index.md",
     "note01",
     "Pasted image 20250726161226.png",
     "Pasted image 20250612170729.png",
