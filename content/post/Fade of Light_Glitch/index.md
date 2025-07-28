@@ -29,3 +29,6 @@ For a period of time, Glitch was my first choice. But then many of its apps beca
 In fact, most of the reliable free plans are provided by foreign companies, like Github, Cloudflare, Vercel, Netlify, and Glitch. In fact, each free plan is enough for individual dev - it gives a lot. But they all have some limits to make it not your free vbs. Bound limitations, time limitations, disk limitations... They are trying to make their free plans looks different from paid ones. If I tell somebody I've got... and it's free, he'll definitely say "Wow, is it true? Don't fool on me bro..."
 
 I also want to talk about Chinese and foreign companies and their products. But I think I'll just stop here. Maybe next time.
+
+PS: Au revoir, Glitch!😭😭
+![[Pasted image 20250726161226.png]]
