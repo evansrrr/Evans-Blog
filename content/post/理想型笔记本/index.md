@@ -1,7 +1,17 @@
 +++
-date = '2025-07-29T16:18:00+08:00'
+author = "Raziore"
+title = "理想型笔记本"
+date = "2025-07-29T16:18:00+08:00"
 draft = false
-title = '理想型笔记本'
+description = "今年笔电对我的意义"
+tags = [
+    "PC",
+    "Laptop",
+]
+categories = [
+    "Tech",
+    "Device",
+]
 +++
 
 先说一下我现在的设备：
